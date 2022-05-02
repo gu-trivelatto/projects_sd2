@@ -1,0 +1,107 @@
+$date
+  Tue Sep 29 09:39:12 2020
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module numeric_std $end
+$upscope $end
+$scope module textio $end
+$upscope $end
+$scope module rom_arquivo_tb $end
+$var reg 4 ! addr_in[3:0] $end
+$var reg 8 " data_out[7:0] $end
+$scope module dut $end
+$var reg 4 # addr[3:0] $end
+$var reg 8 $ data[7:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b0000 !
+b00000000 "
+b0000 #
+b00000000 $
+#10000000
+b0001 !
+b00000011 "
+b0001 #
+b00000011 $
+#20000000
+b0010 !
+b11000000 "
+b0010 #
+b11000000 $
+#30000000
+b0011 !
+b00001100 "
+b0011 #
+b00001100 $
+#40000000
+b0100 !
+b00110000 "
+b0100 #
+b00110000 $
+#50000000
+b0101 !
+b01010101 "
+b0101 #
+b01010101 $
+#60000000
+b0110 !
+b10101010 "
+b0110 #
+b10101010 $
+#70000000
+b0111 !
+b11111111 "
+b0111 #
+b11111111 $
+#80000000
+b1000 !
+b11100000 "
+b1000 #
+b11100000 $
+#90000000
+b1001 !
+b11100111 "
+b1001 #
+b11100111 $
+#100000000
+b1010 !
+b00000111 "
+b1010 #
+b00000111 $
+#110000000
+b1011 !
+b00011000 "
+b1011 #
+b00011000 $
+#120000000
+b1100 !
+b11000011 "
+b1100 #
+b11000011 $
+#130000000
+b1101 !
+b00111100 "
+b1101 #
+b00111100 $
+#140000000
+b1110 !
+b11110000 "
+b1110 #
+b11110000 $
+#150000000
+b1111 !
+b00001111 "
+b1111 #
+b00001111 $
+#160000000

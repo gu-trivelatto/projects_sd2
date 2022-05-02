@@ -1,0 +1,9 @@
+v 4
+file . "reg_param_tb.vhd" "cf14ffd35ecdf9b10089a889416cdb88e9a01d9a" "20201013145231.914":
+  entity bancadatestes at 2( 56) + 0 on 15;
+  architecture testes of bancadatestes at 6( 107) + 0 on 16;
+file . "reg.vhd" "74077d68ab05669f8c6152f1f2ba2ced8aaea53f" "20201013145220.996":
+  entity ffd at 6( 160) + 0 on 11;
+  architecture processor of ffd at 17( 337) + 0 on 12;
+  entity reg at 31( 610) + 0 on 13;
+  architecture arch of reg at 42( 837) + 0 on 14;
